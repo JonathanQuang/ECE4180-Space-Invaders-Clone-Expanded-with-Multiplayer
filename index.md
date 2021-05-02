@@ -66,7 +66,7 @@ Our project is a clone of the classic arcade game (based on Devon Cooper's and S
 
 # Images of Project
 
-![Collage](https://jonathanquang.github.io/ECE4180-Space-Invaders-Clone-Expanded-with-Multiplayer/menu_collage.jpg) 
+![Collage](https://jonathanquang.github.io/ECE4180-Space-Invaders-Clone-Expanded-with-Multiplayer/menu_collage.png) 
 ![Menu](https://jonathanquang.github.io/ECE4180-Space-Invaders-Clone-Expanded-with-Multiplayer/space_menu.jpg) 
 ![Blue](https://jonathanquang.github.io/ECE4180-Space-Invaders-Clone-Expanded-with-Multiplayer/space_blue.jpg) 
 ![Shoot](https://jonathanquang.github.io/ECE4180-Space-Invaders-Clone-Expanded-with-Multiplayer/space_shoot.jpg) 
