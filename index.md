@@ -9,8 +9,7 @@ Jonathan Quang and Daniel Martin
 
 
 # Overview
-Our project is a clone of the classic arcade game, Space Invaders, but with some additional features over other mbed clones. The basic features we have are a joystick that moves the player's ship, a button to fire bullets from the ship, and a LCD screen to display the game. However, our clone boasts some additional feature over other mbed clones. 
-Namely we have added some sound effects played via a speaker with an amp and a second player that can connect to the game over a bluetooth module using the Bluefruit Connect app on a Bluetooth enabled phone. 
+Our project is a clone of the classic arcade game (based on Devon Cooper's and Sidak Dhillon's clone), Space Invaders, but with some additional features over other mbed clones. The basic features we have are a joystick that moves the player's ship, a button to fire bullets from the ship, and a LCD screen to display the game. However, our clone boasts some additional feature over other mbed clones. Namely we have added some sound effects played via a speaker with an amp and a second player that can connect to the game over a bluetooth module using the Bluefruit Connect app on a Bluetooth enabled phone. We have also added a player vs player gamemode, a way to track score and lives, a game over menu with some music, and a starting menu to select gamemodes and to manage the connection of both players.
 
 # Hardware
 - [mbed LPC1768](https://os.mbed.com/platforms/mbed-LPC1768/)
@@ -66,7 +65,7 @@ Namely we have added some sound effects played via a speaker with an amp and a s
 
 # Code Repositories Used:
 
-[Devon Cooper's Space Invaders Clone](https://os.mbed.com/users/DNoved1/code/Space_Invaders_Clone/)
+[Devon Cooper's and Sidak Dhillon's Space Invaders Clone](https://os.mbed.com/users/DNoved1/code/Space_Invaders_Clone/)
 
 [Playing Songs via PWM](https://os.mbed.com/users/4180_1/code/song_demo_PWM/)
 
@@ -75,34 +74,3 @@ Namely we have added some sound effects played via a speaker with an amp and a s
 
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JonathanQuang/ece4180Project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
