@@ -17,7 +17,7 @@ Namely we have added some basic sound effects played via a speaker with an amp a
 - Audio Amplifier
 - uLCD-4DGL
 - SD Card Reader
-- 
+- KY-023 PS2 joystick axis sensor 
 
 
 
