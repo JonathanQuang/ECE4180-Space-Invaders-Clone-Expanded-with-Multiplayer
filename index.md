@@ -4,6 +4,23 @@ You can use the [editor on GitHub](https://github.com/JonathanQuang/ece4180Proje
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+#Space Invaders Clone
+
+
+#Overview
+Our project is a clone of the classic arcade game, Space Invaders, but with some additional features over other mbed clones. The basic features we have are a joystick that moves the player's ship, a button to fire bullets from the ship, and a LCD screen to display the game. However, our clone boasts some additional feature over other mbed clones. 
+Namely we have added some basic sound effects played via a speaker with an amp and a second player that can connect to the game over a blue tooth module
+
+#Hardware
+- mbed LPC1768
+- Speaker
+- Audio Amplifier
+- uLCD-4DGL
+- SD Card Reader
+- 
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
