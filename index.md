@@ -47,6 +47,7 @@ Our project is a clone of the classic arcade game (based on Devon Cooper's and S
 | VU (5v)  | +5v    |
 | p15      | VRx    |
 | p16      | VRy    |
+| p22      | SW     |
 
 | Mbed Pin      | Bluetooth BLE Board |
 |---------------|---------------------|
