@@ -70,7 +70,7 @@ We used the parts mentioned below. The only part not from the ECE lab is the joy
 
 # Code For Project
 
-Code can be found ![here](https://os.mbed.com/users/dmartin99/code/space_invaders_pvp/)!
+Code can be found [here](https://os.mbed.com/users/dmartin99/code/space_invaders_pvp/)
 
 
 # Demo of Project
