@@ -68,6 +68,9 @@ Our project is a clone of the classic arcade game (based on Devon Cooper's and S
 
 ![Circuit](https://jonathanquang.github.io/ECE4180-Space-Invaders-Clone-Expanded-with-Multiplayer/circuit_diagram.png)
 
+# Code For Project
+
+Code can be found here: https://os.mbed.com/users/dmartin99/code/space_invaders_pvp/
 
 
 # Images of Project
@@ -76,6 +79,14 @@ Our project is a clone of the classic arcade game (based on Devon Cooper's and S
 ![Menu](https://jonathanquang.github.io/ECE4180-Space-Invaders-Clone-Expanded-with-Multiplayer/space_menu.jpg) 
 ![Blue](https://jonathanquang.github.io/ECE4180-Space-Invaders-Clone-Expanded-with-Multiplayer/space_blue.jpg) 
 ![Shoot](https://jonathanquang.github.io/ECE4180-Space-Invaders-Clone-Expanded-with-Multiplayer/space_shoot.jpg) 
+
+# Demo of Project
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fE4YTzcqwzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Video of Presentation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4VOGihjKd9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Code Repositories Used
 
