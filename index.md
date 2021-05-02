@@ -71,11 +71,18 @@ Our project is a clone of the classic arcade game (based on Devon Cooper's and S
 | p24      |                                 | positive end                     |
 
 
-# Code Repositories Used:
+# Code Repositories Used
 
 [Devon Cooper's and Sidak Dhillon's Space Invaders Clone](https://os.mbed.com/users/DNoved1/code/Space_Invaders_Clone/)
 
 [Playing Songs via PWM](https://os.mbed.com/users/4180_1/code/song_demo_PWM/)
+
+# Future Work
+
+- Include more gamemodes
+- Improve audio system to support .wav files loaded from an SD card.
+- Include other methods of user input, such as a gyroscope
+- Add ways to play over the internet with the Ethernet module
 
 
 
