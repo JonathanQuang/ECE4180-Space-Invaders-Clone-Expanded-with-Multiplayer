@@ -73,6 +73,14 @@ Our project is a clone of the classic arcade game (based on Devon Cooper's and S
 Code can be found here: https://os.mbed.com/users/dmartin99/code/space_invaders_pvp/
 
 
+# Demo of Project
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fE4YTzcqwzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Video of Presentation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4VOGihjKd9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Images of Project
 
 ![Collage](https://jonathanquang.github.io/ECE4180-Space-Invaders-Clone-Expanded-with-Multiplayer/menu_collage.png) 
