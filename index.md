@@ -4,14 +4,15 @@ You can use the [editor on GitHub](https://github.com/JonathanQuang/ECE4180-Spac
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-#Space Invaders Clone
+# Authors
+Jonathan Quang and Daniel Martin
 
 
-#Overview
+# Overview
 Our project is a clone of the classic arcade game, Space Invaders, but with some additional features over other mbed clones. The basic features we have are a joystick that moves the player's ship, a button to fire bullets from the ship, and a LCD screen to display the game. However, our clone boasts some additional feature over other mbed clones. 
 Namely we have added some sound effects played via a speaker with an amp and a second player that can connect to the game over a bluetooth module using the Bluefruit Connect app on a Bluetooth enabled phone. 
 
-#Hardware
+# Hardware
 - [mbed LPC1768](https://os.mbed.com/platforms/mbed-LPC1768/)
 - [Sparkfun PCB Speaker 8ohm .1W](https://os.mbed.com/users/4180_1/notebook/tpa2005d1-class-d-audio-amp/)
 - [TI TPA2005D1 class D audio amp chip (250Khz PWM)](https://os.mbed.com/users/4180_1/notebook/tpa2005d1-class-d-audio-amp/)
@@ -23,7 +24,8 @@ Namely we have added some sound effects played via a speaker with an amp and a s
 
 
 
-#Circuit Connections
+# Circuit Connections
+
 | Mbed Pin  | TPA2005D1 | 5V 2A AC adapter | Speaker |Potentiometer|
 |-----------|-----------|------------------|---------|-------------|
 | GND       | pwr-, in- | GND              |         |             | 
