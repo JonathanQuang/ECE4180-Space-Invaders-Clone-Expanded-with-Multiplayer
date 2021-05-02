@@ -12,11 +12,11 @@ Our project is a clone of the classic arcade game, Space Invaders, but with some
 Namely we have added some sound effects played via a speaker with an amp and a second player that can connect to the game over a bluetooth module using the Bluefruit Connect app on a Bluetooth enabled phone. 
 
 #Hardware
-- [mbed LPC1768] (https://os.mbed.com/platforms/mbed-LPC1768/)
+- [mbed LPC1768](https://os.mbed.com/platforms/mbed-LPC1768/)
 - [Sparkfun PCB Speaker 8ohm .1W](https://os.mbed.com/users/4180_1/notebook/tpa2005d1-class-d-audio-amp/)
 - [TI TPA2005D1 class D audio amp chip (250Khz PWM)](https://os.mbed.com/users/4180_1/notebook/tpa2005d1-class-d-audio-amp/)
-- [uLCD-144-G2] (https://os.mbed.com/users/4180_1/notebook/ulcd-144-g2-128-by-128-color-lcd/)
-- [KY-023 PS2 joystick axis sensor] (https://arduinomodules.info/ky-023-joystick-dual-axis-module/)
+- [uLCD-144-G2](https://os.mbed.com/users/4180_1/notebook/ulcd-144-g2-128-by-128-color-lcd/)
+- [KY-023 PS2 joystick axis sensor](https://arduinomodules.info/ky-023-joystick-dual-axis-module/)
 - [Adafruit Bluefruit BLE board](https://os.mbed.com/users/4180_1/notebook/adafruit-bluefruit-le-uart-friend---bluetooth-low-/)
 - [5v 2AC Adapter](https://www.digikey.com/en/products/detail/wurth-electronics-inc/694106301002/5047522?utm_adgroup=Barrel%20-%20Power%20Connectors&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Connectors%2C%20Interconnects_NEW&utm_term=&utm_content=Barrel%20-%20Power%20Connectors&gclid=Cj0KCQjw-LOEBhDCARIsABrC0TlTFUNaJdsN-9aJB1ibh7JMV1RMs3MJ0_6Dr17MpBX6kMGLQGHtjRsaAuz2EALw_wcB)
 -[10K Ohm Breadboard Trim Potentiometer](https://www.sparkfun.com/products/9806)
@@ -63,7 +63,9 @@ Namely we have added some sound effects played via a speaker with an amp and a s
 
 
 # Code Repositories Used:
+
 [Devon Cooper's Space Invaders Clone](https://os.mbed.com/users/DNoved1/code/Space_Invaders_Clone/)
+
 [Playing Songs via PWM](https://os.mbed.com/users/4180_1/code/song_demo_PWM/)
 
 
