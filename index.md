@@ -67,8 +67,8 @@ Our project is a clone of the classic arcade game (based on Devon Cooper's and S
 | Mbed Pin | Red LED with Resistor in Series | Blue LED with Resistor in Series |
 |----------|---------------------------------|----------------------------------|
 | GND      | negative end                    | negative end                     |
-| p10      | positive end                    |                                  |
-| p11      |                                 | positive end                     |
+| p22      | positive end                    |                                  |
+| p24      |                                 | positive end                     |
 
 
 # Code Repositories Used:
